@@ -1,0 +1,34 @@
+				CHEF	
+
+Chef is a configaration management tool.
+
+->	Parameters to consider to do the configuration using chef
+
+	1. Check Disk Space,
+	2. Check chef driversto 
+	3. Chef file exist,
+	4.Create file .
+
+-->	Chef is a frame work ( ready to use )
+-->	Chef is platform independence				
+		If we want to configure one  server configurations into any other platforms by using chef we can do.
+		( EX:If we need windows server configurations in Linux or solaris we can do it from chef )
+
+--> We can create a file in any platform.
+
+
+Install Chef :
+
+1. Download chef developmennt kit (chefdk)
+
+2. Manual installation:
+
+$ sudo dpkg -i file_path
+
+3. Check intallation;
+
+which chef or
+
+which chef_client or
+
+whcih ruby   ( NOte: Chef written in ruby )
