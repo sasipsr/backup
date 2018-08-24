@@ -1,0 +1,17 @@
+1. How many ways to create a docker image   --- Two ways 
+2. How I need to Upon run my container always without fail..  ---  With Docker's Restart Policy (OR) 
+3. What are the types of containers.  ---- java containers & hyper-v containers
+4. If you are running a container how you will increase the size of the container without down time  --- docker compose
+5. How u will run an image from outside of the container.  -- By using port forwarding 
+6. Difference between docker hub and docker registry..   --- Hub : a service storing your docker images
+							     Repository : collection of different images with same name that have different tags
+
+
+docker-machine stop
+VBoxManage modifyvm default --cpus 2
+VBoxManage modifyvm default --memory 4096
+docker-machine star
+
+
+=============================================================================================================================================
+
